@@ -7,3 +7,4 @@ psycopg2==2.7.3.2
 PyJWT==1.5.3
 pytz==2017.3
 whitenoise==4.1.4
+django-cors-middleware
