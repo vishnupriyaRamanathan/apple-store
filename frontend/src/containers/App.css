@@ -1,0 +1,7 @@
+#content-wrapper {
+  margin-top: 150px;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap; }

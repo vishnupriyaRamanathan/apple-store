@@ -1,0 +1,30 @@
+#navbar {
+  position: fixed;
+  padding: 15px;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  background: #fff;
+  transition: all 0.4s linear;
+
+  .header {
+    font-size: 2rem;
+  }
+
+  #logo:hover {
+    background: #fff;
+  }
+}
+
+.small {
+  padding: 0 !important;
+
+  .header {
+    font-size: 1.5rem !important;
+  }
+}
+.menu .ui.input input {
+  color: #fff;
+}
+
+.menu .ui.input input:focus {
+  color: #fff;
+}

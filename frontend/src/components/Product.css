@@ -1,0 +1,16 @@
+#product-name {
+  margin: 0; }
+
+#price {
+  margin-top: 0.5rem; }
+
+#rating {
+  margin-top: 1.5rem; }
+
+#quantity .input {
+  width: 50px; }
+  #quantity .input input {
+    text-align: center; }
+
+#content-wrapper img {
+  height: 250px; }
